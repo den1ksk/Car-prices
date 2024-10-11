@@ -1,6 +1,6 @@
 #### English Version | [Kaggle competition](https://www.kaggle.com/competitions/playground-series-s4e9)
 
-# Used Car Prices Prediction
+# Regression of Used Car Prices
 
 ### Competition Description
 
